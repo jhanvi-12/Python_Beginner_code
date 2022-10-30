@@ -1,0 +1,6 @@
+PASSWORD_NOT_MATCH = "Your password and confirm password are not same!!"
+INVALID_LOGIN_CREDENTIAL = "Invalid Login credentials"
+INVALID_OLD_PASSWORD = "Your old password is not correct Please check!!"
+UPDATED_PASSWORD_MSG = "Password updated successfully"
+USER_ALREADY_EXISTS = "User Already Exists!! Please try with another username"
+DELETED_USER = "User with given id is deleted successfully!!!"
